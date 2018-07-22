@@ -52,7 +52,7 @@ The collection of Roles and Policies contained within a Circle make up its actin
 
 When a Circle grants a Domain to one of its Roles, the Role-fillers of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
 
-Once a Role controls a Domain, it may create its own Policies governing that Domain within its own Governance Process. However, the Circle that delegated the Domain still retains the right to define or modify its own Policies governing that Domain, and any such Policies trump those defined by the Role in the event of a conflict.
+A Role may create its own Policies governing its Domains within its own Governance Process. However, the Circle still retains the right to define or modify its own Policies governing any Domain the Circle has delegated to such Role, and any such Policies trump those defined by the Role in the event of a conflict.
 
 ### 1.4 Circle Leads
 
