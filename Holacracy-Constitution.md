@@ -116,7 +116,7 @@ In any given instance where a surrogate is needed, the surrogate is, in this ord
 
 ### 2.1 Authority of Role-Fillers
 
-When filling a Role, you have the authority to take any action or make any decision you reasonably believe is useful to enact your Role’s Purpose or Accountabilities in service of the Organization, as long as you don't break any rules defined in this Constitution.
+When filling a Role, you have the authority to take any action or make any decision you reasonably believe is useful to enact your Role’s Purpose or Accountabilities in service of the Organization and within the boundary of the Circle containing the Role, as long as you don't break any rules defined in this Constitution.
 
 #### 2.1.1 Don't Violate Policies
 
