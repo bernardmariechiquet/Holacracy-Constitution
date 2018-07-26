@@ -48,6 +48,10 @@ Each Role except those defined in Appendix A is also a ***“Circle”*** intern
 
 The collection of Roles and Policies contained within a Circle make up its acting **_“Governance”_**. No one may change a Circle's Governance except through its **_“Governance Process”_**, described in Article 3.
 
+Each Circle has a group of "Circle Members" who may participate in its Governance Process.
+
+By default, the Circle Members of a Circle are those Partners assigned to lead or support the Circle itself as a Role Lead or Role Supporter within its Super-Circle, as well as any Partners serving as Role Leads or Rep Link (described in Section 1.5) for any Roles within the Circle. However, if the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention to fill effectively, they may exclude the Role Leads of that Role from serving as a Circle Member due to that Role assignment.
+
 #### 1.3.1 Delegating Domains
 
 When a Circle grants a Domain to one of its Roles, the Role-fillers of that Role may control that Domain on behalf of the Circle. A Circle may only grant Domains to its Roles that fall fully within the Circle's own Domains, or that are only relevant within its own internal processes.
@@ -275,11 +279,7 @@ A Policy may only be one or more of the following:
 
 A Policy that changes a default rule or process in the Constitution applies only within the Circle that holds the Policy, or, if explicitly stated, within all Sub-Circles as well, recursively. In the latter case, a Sub-Circle may still override that Policy via one of its own, unless explicitly forbidden in the original Policy.
 
-### 3.2 Governance Participants
-
-Each Circle has a group of ***"Circle Members"*** who may participate in its Governance Process.
-
-By default, the Circle Members of a Circle are those Partners assigned to lead or support the Circle itself as a Role Lead or Role Supporter within its Super-Circle, as well as any Partners serving as Role Leads or Rep Link for any Roles within the Circle. However, if the Role that controls assignment into another Role reasonably believes that other Role only requires a minor, nearly insignificant amount of attention to fill effectively, they may exclude the Role Leads of that Role from serving as a Circle Member due to that Role assignment.
+### 3.2 Representation
 
 A Circle may adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Partners serving as Role Lead or Rep Link for the invited Role also become Circle Members of the Circle.
 
