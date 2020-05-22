@@ -15,7 +15,7 @@ A ***“Role”*** is an organizational construct that someone can fill and then
 
 - **(a)** a ***“Purpose”***, which is a capacity, potential, or goal that the Role will pursue or express.
 - **(b)** one or more ***“Domains”***, which are assets, processes, or other things the Role may exclusively control and regulate as its property, for its purpose.
-- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or to support its Purpose.
+- **(c)** one or more ***“Accountabilities”***, which are ongoing activities the Role will manage and enact in service of other Roles or other sovereign entities, or to support its Purpose.
 
 A Role may also hold ***“Policies”***, which are grants or constraints of authority, or special rules that apply to operations within that Role.
 
